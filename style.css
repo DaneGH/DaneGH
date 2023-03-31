@@ -130,6 +130,31 @@ article a {
     float: right;
 }
 
+.img2 img { 
+    border: solid 5px #000000;
+    margin: 5px;
+}
+
+.text2 p {
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px;
+    position: static;
+    float: right;
+}
+
+.img3 img { 
+    border: solid 5px #000000;
+    margin: 5px;
+}
+
+.text3 p {
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px;
+    position: static;
+    float: right;
+}
 
 footer {
     padding-left: 180px;
