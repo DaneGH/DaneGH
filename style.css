@@ -126,7 +126,7 @@ article a {
 .text1 p {
     font-size: 20px;
     text-align: justify;
-    margin: 60px;
+    margin: 50%;
     position: static;
     float: right;
 }
@@ -138,7 +138,7 @@ article a {
 
 .text2 p {
     font-size: 20px;
-    margin: 20px;
+    margin: 50%;
     position: static;
 }
 
@@ -150,7 +150,7 @@ article a {
 .text3 p {
     font-size: 20px;
     text-align: justify;
-    margin: 20px;
+    margin: 50%;
     position: static;
     float: right;
 }
