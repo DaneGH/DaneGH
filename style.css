@@ -53,6 +53,7 @@ nav a:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     height: 100%;
     width: 160px;
+    position: absolute;
     z-index: 1;
     top: 0;
     right: 0;
