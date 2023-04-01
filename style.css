@@ -53,10 +53,10 @@ nav a:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     height: 100%;
     width: 160px;
-    position: fixed;
+    position: absolute;
     z-index: 1;
     top: 0;
-    left: 0;
+    right: 0;
     background-color: #000000;
     overflow: hidden;
     padding-top: 20px;
@@ -77,15 +77,12 @@ nav a:hover {
 }
 
 .main-content {
-    margin-left: 160px;
-    margin-right: 160px;
     padding: 20px 20px;
 }
 
 html, body {
     max-width: 100%; 
     margin: 0px;
-    background-color: #ffffff;
 }
 
 article {
