@@ -125,10 +125,10 @@ article a {
 
 .text1 p {
     font-size: 20px;
-    text-align: justify;
-    margin: 50%;
-    position: static;
-    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .img2 img { 
@@ -138,8 +138,10 @@ article a {
 
 .text2 p {
     font-size: 20px;
-    margin: 50%;
-    position: static;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .img3 img { 
@@ -149,10 +151,10 @@ article a {
 
 .text3 p {
     font-size: 20px;
-    text-align: justify;
-    margin: 50%;
-    position: static;
-    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 footer {
