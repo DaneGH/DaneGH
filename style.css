@@ -54,6 +54,7 @@ nav a:hover {
     height: 100%;
     width: 160px;
     position: absolute;
+    position: sticky;
     z-index: 1;
     top: 0;
     right: 0;
